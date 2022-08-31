@@ -1,10 +1,10 @@
-package com.project.junction;
+package com.project.IndiStraw;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JunctionApplicationTests {
+class IndiStrawApplicationTests {
 
 	@Test
 	void contextLoads() {
